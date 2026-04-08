@@ -1,0 +1,465 @@
+{
+  "business": {
+    "name": "Rodney Fence and Outdoor Services LLC",
+    "phone": "+18133818243",
+    "category": "fence company",
+    "city": "Tampa",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tampa's Trusted Fence Experts",
+      "heroSubline": "Rodney Fence provides durable, quality fencing solutions throughout the Tampa Bay area. Protect your property and enhance your curb appeal with our expert craftsmanship.",
+      "aboutTitle": "Built on Quality, Rooted in Tampa",
+      "aboutText": [
+        "Rodney Fence and Outdoor Services LLC began with a simple mission: to deliver exceptional fencing solutions with unwavering integrity. We saw a need for reliable contractors who understood the unique challenges of Tampa's climate and housing styles. From South Tampa bungalows to Westchase developments, we've built a reputation for exceeding expectations.",
+        "Our approach is straightforward: We listen to your needs, assess your property, and recommend the best fencing solution for your budget and aesthetic preferences. We use premium materials designed to withstand Florida's humidity, storms, and salt air, ensuring long-lasting protection and beauty.",
+        "We're proud to be a part of the Tampa Bay community. We source materials locally whenever possible, and we actively support local charities and initiatives. When you choose Rodney Fence, you're not just getting a fence; you're investing in your community."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use premium-grade materials built to withstand Tampa's harsh weather conditions, ensuring long-lasting performance."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team meticulously installs every fence, guaranteeing structural integrity and a flawless finish."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We tailor our fencing solutions to your specific property and style preferences, creating a seamless and attractive addition."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Tampa's unique challenges, from salt air corrosion to HOA regulations, and provide informed solutions."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Contact Rodney Fence for a free consultation and discover the perfect fencing solution for your Tampa home or business."
+    },
+    "services": [
+      {
+        "slug": "wood-fencing",
+        "name": "Wood Fencing",
+        "shortDescription": "Classic wood fencing for privacy, security, and timeless appeal.",
+        "description": "Wood fencing remains a popular choice for Tampa homeowners seeking a blend of affordability, aesthetics, and privacy. At Rodney Fence, we use pressure-treated lumber to resist rot and insect damage, crucial in Florida's humid climate. We offer various styles, including traditional picket fences, shadowbox fences for enhanced privacy, and board-on-board fences for maximum security. We can customize your wood fence with decorative posts, caps, and staining options to complement your home's architecture and landscaping. Our experienced installers ensure precise construction and secure anchoring, even in Tampa's sandy soil. A properly installed and maintained wood fence can last for many years, adding value and charm to your property. Consider the effects of Tampa's afternoon thunderstorms and plan for proper drainage to extend the life of your wood fence. Regular cleaning and sealing will also help protect it from the elements.\n\nWe handle everything from permitting to post-installation cleanup, ensuring a hassle-free experience. We take pride in our meticulous craftsmanship and commitment to customer satisfaction. Let Rodney Fence create a beautiful and functional wood fence that enhances your Tampa property.",
+        "process": [
+          "Step 1: Site evaluation and design consultation",
+          "Step 2: Material selection and permit acquisition",
+          "Step 3: Precise post setting and framing",
+          "Step 4: Careful board installation and finishing"
+        ],
+        "benefits": [
+          "Enhanced privacy",
+          "Increased property value",
+          "Classic aesthetic",
+          "Customizable design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a wood fence last in Tampa?",
+            "answer": "With proper treatment and maintenance, a wood fence can last 10-15 years in Tampa's climate."
+          },
+          {
+            "question": "What type of wood is best for fences in Florida?",
+            "answer": "Pressure-treated pine is a common and cost-effective choice, offering good resistance to rot and insects."
+          },
+          {
+            "question": "Do I need a permit to build a fence in Tampa?",
+            "answer": "Yes, most fence projects in Tampa require a permit. We handle the permitting process for you."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fencing",
+        "name": "Vinyl Fencing",
+        "shortDescription": "Low-maintenance vinyl fencing for lasting beauty and durability.",
+        "description": "Vinyl fencing offers Tampa homeowners a durable, low-maintenance alternative to wood. Resistant to rot, insects, and fading, vinyl fences maintain their pristine appearance for years with minimal upkeep. Rodney Fence offers a wide selection of vinyl fencing styles, including privacy fences, picket fences, and ranch rail fences. Our vinyl fences are constructed from high-quality, UV-resistant materials that withstand Florida's intense sun and humidity. We use advanced installation techniques to ensure structural integrity and prevent sagging or warping. Vinyl fencing is an excellent choice for waterfront properties in Tampa, as it is unaffected by salt air corrosion. Consider a vinyl fence for your Bayshore Boulevard condo or your Seminole Heights bungalow. \n\nBeyond its durability, vinyl fencing offers exceptional versatility. Choose from a variety of colors and textures to complement your home's style. Many vinyl fences come with lifetime warranties, providing peace of mind and long-term value. Rodney Fence provides professional installation services, ensuring your vinyl fence is properly installed and ready to withstand Tampa's weather. We handle all aspects of the project, from initial consultation to final inspection.",
+        "process": [
+          "Step 1: Property measurement and design selection",
+          "Step 2: Material ordering and site preparation",
+          "Step 3: Precise post installation and panel assembly",
+          "Step 4: Final inspection and customer satisfaction"
+        ],
+        "benefits": [
+          "Low maintenance",
+          "Long-lasting durability",
+          "Variety of styles",
+          "Salt air resistance"
+        ],
+        "faq": [
+          {
+            "question": "How long does a vinyl fence last?",
+            "answer": "A high-quality vinyl fence can last 20-30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "Our vinyl fencing is made with UV-resistant materials to minimize fading."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Vinyl fencing is recyclable and requires no painting or staining, making it an environmentally conscious choice."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fencing",
+        "name": "Aluminum Fencing",
+        "shortDescription": "Elegant and secure aluminum fencing for pools, gardens, and property boundaries.",
+        "description": "Aluminum fencing provides Tampa homeowners with an elegant and secure fencing solution that requires minimal upkeep. Ideal for pool enclosures, garden boundaries, and property demarcation, aluminum fences offer a sophisticated look without compromising security. Rodney Fence offers a variety of aluminum fencing styles, including ornamental fences, privacy fences, and decorative fences. Our aluminum fences are powder-coated for enhanced durability and resistance to corrosion, making them perfect for Tampa's humid climate and proximity to the coast. Aluminum fencing is a popular choice for homeowners in areas with strict HOA requirements, as it offers a clean and refined aesthetic. \n\nAluminum fences are lightweight yet strong, providing excellent security without obstructing views. They are also easy to install and require minimal maintenance, making them a cost-effective fencing option for Tampa homeowners. Choose from a range of colors and styles to complement your home's architecture and landscaping. Rodney Fence provides professional installation services, ensuring your aluminum fence is properly installed and meets all local codes and regulations. We handle all aspects of the project, from initial consultation to final inspection.",
+        "process": [
+          "Step 1: Site assessment and design finalization",
+          "Step 2: Material acquisition and layout planning",
+          "Step 3: Precise post placement and panel mounting",
+          "Step 4: Gate installation and quality assurance"
+        ],
+        "benefits": [
+          "Elegant appearance",
+          "Low maintenance",
+          "Corrosion resistance",
+          "Enhanced security"
+        ],
+        "faq": [
+          {
+            "question": "Is aluminum fencing suitable for pool enclosures?",
+            "answer": "Yes, aluminum fencing is an excellent choice for pool enclosures, as it meets safety codes and provides a secure barrier."
+          },
+          {
+            "question": "Does aluminum fencing rust?",
+            "answer": "No, aluminum fencing is naturally rust-resistant and powder-coated for added protection."
+          },
+          {
+            "question": "Can I customize the look of my aluminum fence?",
+            "answer": "Yes, we offer a variety of colors, styles, and decorative options to customize your aluminum fence."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fencing",
+        "name": "Chain Link Fencing",
+        "shortDescription": "Affordable and practical chain link fencing for security and containment.",
+        "description": "Chain link fencing offers Tampa property owners an economical and practical solution for security and containment. Ideal for residential, commercial, and industrial applications, chain link fences provide a durable barrier without obstructing views. Rodney Fence offers a variety of chain link fencing options, including galvanized steel, vinyl-coated, and black chain link. Our chain link fences are constructed from high-quality materials that withstand Tampa's weather conditions. Chain link fencing is a popular choice for dog runs, property boundaries, and security enclosures. \n\nChain link fences are easy to install and require minimal maintenance, making them a cost-effective fencing solution for Tampa property owners. Choose from a range of heights and gauges to meet your specific security needs. We also offer privacy slats to enhance the privacy of your chain link fence. Rodney Fence provides professional installation services, ensuring your chain link fence is properly installed and meets all local codes and regulations. We handle all aspects of the project, from initial consultation to final inspection.",
+        "process": [
+          "Step 1: Site survey and material selection",
+          "Step 2: Post setting and framework construction",
+          "Step 3: Fabric installation and tensioning",
+          "Step 4: Gate installation and final inspection"
+        ],
+        "benefits": [
+          "Affordable",
+          "Durable",
+          "Secure",
+          "Easy to maintain"
+        ],
+        "faq": [
+          {
+            "question": "Is chain link fencing suitable for pet containment?",
+            "answer": "Yes, chain link fencing is an excellent choice for containing pets, providing a secure and durable barrier."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, we offer privacy slats that can be easily installed to enhance the privacy of your chain link fence."
+          },
+          {
+            "question": "What is the lifespan of a chain link fence?",
+            "answer": "A well-maintained chain link fence can last 15-20 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Expert gate services for seamless access and enhanced security.",
+        "description": "Rodney Fence and Outdoor Services LLC provides expert gate installation and repair services throughout Tampa, ensuring seamless access and enhanced security for your property. We handle all types of gates, including driveway gates, pedestrian gates, pool gates, and automatic gates. Whether you need a new gate installed or an existing gate repaired, our skilled technicians have the expertise to get the job done right. We understand the importance of a properly functioning gate for security and convenience. \n\nWe offer a wide range of gate styles and materials to complement your fencing and property aesthetics. Our gate installation services include precise measurements, secure anchoring, and smooth operation. We also provide gate repair services, including hinge replacement, latch adjustments, and post repairs. For automatic gates, we offer motor repairs, sensor adjustments, and remote control programming. We use high-quality hardware and materials to ensure long-lasting performance and reliability. Rodney Fence and Outdoor Services LLC is committed to providing exceptional gate services that meet your specific needs and budget. We serve all neighborhoods in Tampa, from the historic districts to the newer developments.",
+        "process": [
+          "Step 1: Thorough gate inspection and diagnosis",
+          "Step 2: Precise repair or replacement of components",
+          "Step 3: Alignment and adjustment for smooth operation",
+          "Step 4: Safety inspection and customer verification"
+        ],
+        "benefits": [
+          "Enhanced security",
+          "Seamless access",
+          "Improved convenience",
+          "Professional expertise"
+        ],
+        "faq": [
+          {
+            "question": "How often should I maintain my gate?",
+            "answer": "Regular maintenance, such as lubricating hinges and checking latches, can extend the life of your gate."
+          },
+          {
+            "question": "Do you offer automatic gate repair?",
+            "answer": "Yes, we offer comprehensive repair services for all types of automatic gates."
+          },
+          {
+            "question": "Can you install a gate to match my existing fence?",
+            "answer": "Yes, we can customize a gate to match your existing fence style and materials."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair Services",
+        "shortDescription": "Fast and reliable fence repair services to restore security and aesthetics.",
+        "description": "Rodney Fence and Outdoor Services LLC offers fast and reliable fence repair services throughout Tampa, restoring security and aesthetics to your property. We understand that a damaged fence can compromise your property's security and curb appeal. That's why we provide prompt and efficient fence repair services to address any issues, from broken posts to damaged panels. We handle all types of fence repairs, including wood fence repairs, vinyl fence repairs, aluminum fence repairs, and chain link fence repairs. Our skilled technicians have the expertise to diagnose the problem and provide effective solutions. \n\nWe use high-quality materials to ensure lasting repairs and restore your fence to its original condition. Our fence repair services include post replacement, panel replacement, gate repairs, and hardware upgrades. We also offer emergency fence repair services for urgent situations, such as storm damage or security breaches. Rodney Fence and Outdoor Services LLC is committed to providing exceptional fence repair services that meet your specific needs and budget. We serve all neighborhoods in Tampa, from South Tampa to New Tampa, providing reliable and affordable fence repair solutions.",
+        "process": [
+          "Step 1: Detailed damage assessment and cost estimate",
+          "Step 2: Secure material procurement and preparation",
+          "Step 3: Efficient repair execution and structural reinforcement",
+          "Step 4: Quality control and aesthetic restoration"
+        ],
+        "benefits": [
+          "Restored security",
+          "Improved curb appeal",
+          "Extended fence life",
+          "Cost-effective solutions"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair typically cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of materials needed. We provide free estimates."
+          },
+          {
+            "question": "Can you repair a fence damaged by a hurricane?",
+            "answer": "Yes, we specialize in repairing fences damaged by storms and hurricanes."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer 24/7 emergency fence repair services for urgent situations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tampa",
+        "slug": "tampa-fl",
+        "state": "FL",
+        "content": "Proudly serving Tampa and surrounding communities.",
+        "localContext": "Local fence company services.",
+        "nearbyAreas": [
+          "St. Petersburg",
+          "Clearwater",
+          "Brandon",
+          "Wesley Chapel"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Rodney Fence did an amazing job installing our new wood privacy fence. The crew was professional, efficient, and paid attention to every detail. Our backyard feels so much more private now! Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Vinyl Fence Repair",
+        "text": "We had a section of our vinyl fence damaged during a storm. Rodney Fence came out quickly and repaired it perfectly. You can't even tell it was ever damaged. Great service!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Aluminum Pool Fence",
+        "text": "We needed a new fence around our pool to meet code requirements. Rodney Fence installed a beautiful aluminum fence that looks great and keeps our kids safe. The team was knowledgeable and helpful throughout the process.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Gate Repair",
+        "text": "Our gate was dragging and difficult to open. Rodney Fence repaired the hinges and adjusted the latch, and now it works perfectly! Very responsive and reasonably priced.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "Rodney Fence installed a chain link fence around our commercial property. The installation was quick and efficient, and the fence provides the security we needed. Good value for the price.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "From start to finish, Rodney Fence provided exceptional service. They helped us design a beautiful wood fence that perfectly complements our home. The installation crew was professional and courteous, and the finished product is top-notch.",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Rodney Fence: Tampa Fence Company",
+        "description": "Tampa's trusted fence company. Wood, vinyl, aluminum, chain link. Installation & repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Rodney Fence | Tampa, FL",
+        "description": "Learn about Rodney Fence and Outdoor Services LLC, Tampa's leading fence contractor. Quality, integrity, and local expertise."
+      },
+      "services": {
+        "title": "Fence Services | Rodney Fence Tampa",
+        "description": "Wood, vinyl, aluminum, chain link fence services in Tampa. Installation, repair, and gate services. Free estimates."
+      },
+      "contact": {
+        "title": "Contact Rodney Fence | Tampa, FL",
+        "description": "Contact Rodney Fence and Outdoor Services LLC for a free fence consultation in Tampa, FL. Call +18133818243."
+      },
+      "reviews": {
+        "title": "Rodney Fence Reviews | Tampa Fencing",
+        "description": "Read reviews for Rodney Fence and Outdoor Services LLC. See what our Tampa customers say about our fence services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Rodney Fence Tampa",
+        "description": "Rodney Fence serves Tampa, St. Petersburg, Clearwater, Brandon, and Wesley Chapel. Expert fence services near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fencing": "/images/service-wood-fencing.webp",
+      "vinyl-fencing": "/images/service-vinyl-fencing.webp",
+      "aluminum-fencing": "/images/service-aluminum-fencing.webp",
+      "chain-link-fencing": "/images/service-chain-link-fencing.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp",
+      "fence-repair": "/images/service-fence-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fencing": {
+        "src": "/images/service-wood-fencing.webp",
+        "srcset": "/images/service-wood-fencing-400w.webp 400w, /images/service-wood-fencing-800w.webp 800w, /images/service-wood-fencing-1200w.webp 1200w, /images/service-wood-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fencing": {
+        "src": "/images/service-vinyl-fencing.webp",
+        "srcset": "/images/service-vinyl-fencing-400w.webp 400w, /images/service-vinyl-fencing-800w.webp 800w, /images/service-vinyl-fencing-1200w.webp 1200w, /images/service-vinyl-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fencing": {
+        "src": "/images/service-aluminum-fencing.webp",
+        "srcset": "/images/service-aluminum-fencing-400w.webp 400w, /images/service-aluminum-fencing-800w.webp 800w, /images/service-aluminum-fencing-1200w.webp 1200w, /images/service-aluminum-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fencing": {
+        "src": "/images/service-chain-link-fencing.webp",
+        "srcset": "/images/service-chain-link-fencing-400w.webp 400w, /images/service-chain-link-fencing-800w.webp 800w, /images/service-chain-link-fencing-1200w.webp 1200w, /images/service-chain-link-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
